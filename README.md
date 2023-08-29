@@ -37,7 +37,7 @@ technologies to meet future requirements.</br>
 
  ## Education
  - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
- 📖**Bachelor's of technology-< Information Technology >**
+ 📖**Bachelor's of technology-< Computer Science + AI/ML >**
  
  - 📍 **Anand Swaroop Arya Saraswati Vidya Mandir, Roorkee**------------------**< 2020 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
