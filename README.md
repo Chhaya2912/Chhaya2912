@@ -14,10 +14,9 @@ I am a computer science and engineering engineering student. I am from Roorkee, 
 
 
 
-- 🌱 I’m currently in love with <b>DeepLearning</b>
-- 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** and **Internships**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently in love with <b>Web Development</b>
+- 🔭 Simultaneously exploring <b>Data Analytics</b>
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Internships**
 - 📫 Reach me at : **chhayatmar@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
